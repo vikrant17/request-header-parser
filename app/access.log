@@ -1,0 +1,1 @@
+::ffff:127.0.0.1 - - [21/Nov/2017:08:01:01 +0000] "GET /whoami HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
